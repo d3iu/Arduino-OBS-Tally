@@ -3,9 +3,13 @@ Board manager ce trebuie adaugat pentru a descarca driverele necesare pentru com
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ESP_EEPROM https://github.com/jwrw/ESP_EEPROM
+
 ArduinoJson https://arduinojson.org/v6/doc/
+
 Arduino Websockets https://github.com/gilmaimon/ArduinoWebsockets
+
 Neopixel https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
+
 
 Pentru instalare: Se foloseste Arduino IDE
 Sketch -> Include librarby -> Add .zip File
